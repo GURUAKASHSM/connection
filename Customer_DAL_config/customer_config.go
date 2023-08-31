@@ -1,7 +1,7 @@
 package customerconfig
 
 import (
-	customerconstants "Netxd_Customer/Customer_Connection/Customer_DAL_constants"
+	customerconstants "github.com/GURUAKASHSM/connection/Customer_DAL_constants"
 	"context"
 	"fmt"
 	"log"
